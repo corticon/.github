@@ -4,7 +4,7 @@ For business processes that involve complex decision transactions such as credit
 
 So instead of that, [Progress Corticon](https://www.progress.com/corticon) enables the users most familiar with complex policy rules, whatever the domain or industry, to author and test that application logic without coding. 
 
-<p align="center">  <img src="assets/be-more-explicit.jpg" width="400"/></p>
+<p align="center">  <img src="https://i.ibb.co/z71Np4m/be-more-explicit.jpg" width="400"/></p>
 
 Progress Corticon is a no code business rules management solution that enables organizations to rapidly execute such changes to keep apps fresh and compliant. With a spreadsheet-like interface, it is an easy-to-use solution that enab​​les business users to execute rules changes with little reliance on IT resources.
 
@@ -22,9 +22,8 @@ Rules are then either:
 
 <br>
 <br>
-<p align="center">  <img src="assets/design flow corticon.png" width="800"/>
+<p align="center">  <img src="https://i.ibb.co/DpWrbqQ/design-flow-corticon.png" width="800"/>
 </p>
-
 --- 
 
 | Connect with Us                                                                                              	| Business Rule Modeling                                                                                                                                                                                 	| Deploying and Executing Decision Services                                                                                                                             	| Further Reading                                                                                         	|
