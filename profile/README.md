@@ -22,7 +22,7 @@ Rules are then either:
 
 <br>
 <br>
-<p align="center">  <img src="https://i.ibb.co/DpWrbqQ/design-flow-corticon.png"/>
+<p align="center">  <img src="https://i.ibb.co/ww4tPNm/sshot-1.png"/>
 </p>
 
 --- 
