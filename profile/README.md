@@ -22,8 +22,9 @@ Rules are then either:
 
 <br>
 <br>
-<p align="center">  <img src="https://i.ibb.co/DpWrbqQ/design-flow-corticon.png" width="800"/>
+<p align="center">  <img src="https://i.ibb.co/DpWrbqQ/design-flow-corticon.png"/>
 </p>
+
 --- 
 
 | Connect with Us                                                                                              	| Business Rule Modeling                                                                                                                                                                                 	| Deploying and Executing Decision Services                                                                                                                             	| Further Reading                                                                                         	|
