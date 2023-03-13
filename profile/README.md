@@ -1,4 +1,4 @@
-# Corticon Decision Magement
+# Corticon Decision Management
 
 For business processes that involve complex decision transactions such as credit approvals, financial modeling, machinery inspections, or insurance claims processing, the rules governing these decisions are extensive, prone to change, and high-impact--and that's before even attempting to automate any aspect of them. Given the requisite expertise for the personnel with the knowledge about these policies, it's a tall order to then translate requirements into application code. 
 
