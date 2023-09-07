@@ -1,4 +1,4 @@
-[Tutorials and Templates](https://corticon.github.io/templates/#/)
+[Tutorials and Templates](https://corticon.github.io/accelerators/#/)
 
 # Corticon Decision Management
 
