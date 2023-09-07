@@ -1,4 +1,4 @@
-[Corticon Rule Template Library](https://corticon.github.io/templates/#/)
+[Tutorials and Templates](https://corticon.github.io/templates/#/)
 
 # Corticon Decision Management
 
