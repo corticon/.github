@@ -2,11 +2,11 @@
 
 [Progress Corticon](https://www.progress.com/corticon) empowers domain experts to author, test, and deploy complex business rules without writing code. This repository provides a collection of rule projects tailored for both Corticon Classic and Corticon.js, showcasing diverse application scenarios.
 
-## Corticon Classic vs. Corticon.js: Choose Your Deployment
+## Corticon vs. Corticon.js: Choose Your Deployment
 
 Corticon offers two distinct deployment models to suit your needs:
 
-**1. Corticon Classic: Enterprise-Grade Data Integration**
+**1. Corticon classic**
 
 * **Deployment:** Deployed as stateless decision services on a Corticon Server, exposed as web services or embedded within Java applications.
 * **Key Feature:** Robust data integration capabilities, allowing seamless interaction with external databases and systems.
