@@ -3,6 +3,7 @@
 [Progress Corticon](https://www.progress.com/corticon) enables domain experts to author, test, and deploy complex, explainable business rules without coding and run them anywhere—on servers, in clouds, serverless, browsers, mobile, and IoT. This page provides sample rule projects and demos for both Corticon Classic and Corticon.js.
 
 👉 Try our interactive Corticon Knowledge Bot:
+
 [![Try the Searcher](https://img.shields.io/badge/Corticon_Knowledge_Bot-Chat_now-success?style=for-the-badge\&logo=progress)](https://corticon.github.io/searcher/)
 
 ---
