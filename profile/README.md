@@ -39,9 +39,7 @@
 - Choose Corticon.js to run rules as fast, self‑contained JavaScript bundles in browsers, mobile apps, or serverless functions.
 
 ### Learn and support
-- Documentation and PDFs: Corticon Information Hub.
-- Learning Center, webinars, whitepapers, and community.
-- Quick “learn to model rules” video.
+- Documentation and PDFs: [Corticon Information Hub](https://docs.progress.com/category/corticon-information-hub).
 
 ### Changelog and versions
 - This repo targets Corticon 7.2 (AI‑driven rule generation) and Corticon.js 2.3 (AI‑assisted authoring and modern deployments).
