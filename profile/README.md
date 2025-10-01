@@ -41,7 +41,25 @@
 
 ### Learn and support
 - Documentation and PDFs: [Corticon Information Hub](https://docs.progress.com/category/corticon-information-hub).
+Of course. Here is a more detailed, markdown-formatted directory of the public repositories within the `github.com/corticon` organization, with descriptions expanded based on their READMEs and other available information.
 
-### Changelog and versions
-- This repo targets Corticon 7.2 (AI‑driven rule generation) and Corticon.js 2.3 (AI‑assisted authoring and modern deployments).
+-----
 
+### Repository Overview Repositories
+
+  * **[Corticon.js Samples](https://github.com/corticon/corticon.js-samples)**
+    This repository contains a wide range of sample decision services and examples for using Corticon.js. Corticon.js is a powerful rules engine that allows you to execute business rules as JavaScript in various environments. The samples showcase uses in serverless environments (AWS Lambda, Google Cloud Functions, Azure Functions), dynamic forms, mobile and web applications (React, Vue.js, Angular), and in-browser execution. The repository is organized into specific use cases, including extended operators, integration with different JavaScript frameworks, and service callout examples.
+
+  * **[Corticon Classic Samples](https://github.com/corticon/corticon-classic-samples)**
+    This repository provides sample rule projects designed for the classic, Java-based version of Corticon. These samples demonstrate how Corticon can be deployed as a stateless decision service on a Corticon Server or embedded directly within a Java/.NET application. They are intended to be imported into the Corticon Studio for classic (non-JavaScript) development.
+
+   * **[Dynamic Forms](https://github.com/corticon/corticon-dynamic-forms)**
+    This project is a rules-driven, framework-agnostic solution for creating and maintaining complex, dynamic forms. It uses Corticon.js to separate the form's logic from its presentation, allowing business users to define the rules that govern the form's behavior. This is ideal for applications like insurance claims or loan applications where the questions shown to the user change based on their previous answers.
+
+  * **[Corticon on MarkLogic](https://github.com/corticon/corticon-on-marklogic)**
+This repository contains a project that demonstrates the integration of Progress Corticon with MarkLogic. It allows you to use Corticon to apply business rules to data stored in a MarkLogic NoSQL database. This enables powerful, rule-based processing of documents and data within the MarkLogic ecosystem.
+
+  * **[Server Analytics](https://github.com/corticon/server-analytics)**
+    Introduced with Corticon v7.0, this project provides analytics capabilities to capture the details of rule executions. It enables the auditing of individual decision service executions and the analysis of decision service behavior over time, helping with performance monitoring and compliance.
+
+-----
