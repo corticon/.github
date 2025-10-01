@@ -2,6 +2,8 @@
 
 [Progress Corticon](https://www.progress.com/corticon) empowers domain experts to author, test, and deploy complex business rules without writing code. This repository provides a collection of rule projects tailored for both Corticon Classic and Corticon.js, showcasing diverse application scenarios.
 
+[![Try the Searcher](https://img.shields.io/badge/Corticon_Knowledge_Bot-Chat_now-success?style=for-the-badge&logo=progress)](https://corticon.github.io/searcher/)
+
 ## Corticon vs. Corticon.js: Choose Your Deployment
 
 Corticon offers two distinct deployment models to suit your needs:
