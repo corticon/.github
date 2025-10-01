@@ -22,7 +22,7 @@
 
 | Model | Deployment | Key strengths | Typical uses | Samples |
 | :--- | :--- | :--- | :--- | :--- |
-| **Corticon Classic** | Stateless Decision Services on Corticon Server; embed in Java/.NET; deploy on‑prem or cloud | Enterprise data integration, EDC, linear scalability, operational monitoring | High‑throughput transactional and batch, compliance, eligibility | Classic samples in this org |
+| **Corticon Classic** | Stateless Decision Services on Corticon Server; embed in Java/.NET; deploy on‑prem or cloud | Enterprise data integration, linear scalability, operational monitoring | High‑throughput transactional and batch, compliance, eligibility | Classic samples in this org |
 | **Corticon.js** | Transpiled JS bundles for browser, Node, mobile, and serverless (FaaS) | Lightweight, offline, low‑latency, edge execution | In‑app decisions, dynamic forms, serverless APIs | Corticon.js samples in this org |
 
 ---
