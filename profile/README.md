@@ -59,6 +59,9 @@ Of course. Here is a more detailed, markdown-formatted directory of the public r
   * **[Corticon on MarkLogic](https://github.com/corticon/corticon-on-marklogic)**
 This repository contains a project that demonstrates the integration of Progress Corticon with MarkLogic. It allows you to use Corticon to apply business rules to data stored in a MarkLogic NoSQL database. This enables powerful, rule-based processing of documents and data within the MarkLogic ecosystem.
 
+  * **[Corticon Server Extensions & Integration Samples](https://github.com/corticon/server-integration-and-extensions)**
+This repository provides examples of how to integrate and extend the capabilities of the Corticon Server. It includes various projects that demonstrate Service Callouts (SCO), Enterprise Data Connector (EDC) usage, and other advanced integration patterns for the classic Java-based Corticon Server.
+
   * **[Server Analytics](https://github.com/corticon/server-analytics)**
     Introduced with Corticon v7.0, this project provides analytics capabilities to capture the details of rule executions. It enables the auditing of individual decision service executions and the analysis of decision service behavior over time, helping with performance monitoring and compliance.
 
