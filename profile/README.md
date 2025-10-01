@@ -35,7 +35,7 @@
 ---
 
 ### Why Classic vs Corticon.js
-- Choose Classic for centralized, enterprise services with rich data access (EDC) and full server management/monitoring.
+- Choose Classic for centralized, enterprise services with rich data access and full server management/monitoring.
 - Choose Corticon.js to run rules as fast, self‑contained JavaScript bundles in browsers, mobile apps, or serverless functions.
 
 ### Learn and support
